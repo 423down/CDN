@@ -417,6 +417,7 @@ ul.db_post li{float:left;width:360px;margin-right:20px;}
 .entry .alignleft{float:left;text-align:left;margin-right:10px}
 .entry .aligncenter{text-align:center}
 .entry .alignright{float:right;text-align:right;margin-left:10px}
+.entry-content img {display: flex;margin: 0 auto}
 
 /* fschange */
 #fschange {float:right; margin:0; padding:0;}
