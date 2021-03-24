@@ -1,5 +1,14 @@
-3ds Max 所有版本官方下载地址 挖掘整理：423DOWN.COM
-提示:历史版的离线安装包下载链接需用P2P下载工具下载。
+3ds Max 官方多国语言版所有历史版下载直链：
+提示：历史版的离线安装包下载链接需用P2P下载工具下载。
+2021 -> Windows 10 x64, CPU支持SSE4.2 指令集的多核处理器
+2020 -> Windows 7 SP1 with 4019990 x64，Windows 10 x64
+::挖掘检索：423DOWN.COM
+
+3ds Max 2022
+https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_001_004.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_002_004.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_003_004.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_004_004.sfx.exe
 
 3ds Max 2021.3 x64 Update
 https://trial2.autodesk.com/NetSWDLD/2021/3DSMAX/84D3A5E6-54DF-38B5-B26F-8E542404F383/SFX/Autodesk_3ds_Max_2021_EFGJKPS_Win_64bit_001_004.sfx.exe
