@@ -1,7 +1,7 @@
 Autodesk 2022 for Windows 官方产品下载直链：
 ::2022-> Windows 10 x64, 支持SSE4.2指令的CPU
 ::挖掘检索：423DOWN.COM
-
+===================
 # 删除欧特克产品账户登陆组件+验证组件+桌面应用程序
 :: 准备安装前找到官方安装包释放后的安装文件所在位置：
 示例：Autodesk_Maya_2022_ML_Windows_64bit_dlm\
