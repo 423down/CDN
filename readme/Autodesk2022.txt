@@ -17,15 +17,15 @@ http://dds.autodesk.com/NetSWDLD/2022/ACD/7EE008AE-5D6A-3AA3-ACDF-EC695BCCA205/S
 AutoCAD LT 2022 官方简体中文版
 https://dds.autodesk.com/NetSWDLD/2022/ACDLT/BE24E5A3-979A-30A3-82C6-82882AADD236/SFX/AutoCAD_LT_2022_Simplified_Chinese_Win_64bit_dlm.sfx.exe
 
+Autodesk AutoCAD Map 3D 2022 官方简体中文版
+http://dds.autodesk.com/NetSWDLD/2022/MAP/41F8269C-C74B-32ED-9F7B-956B43A7E85E/SFX/AutoCAD_Map_2022_Simplified_Chinese_Win_64bit_dlm_001_002.sfx.exe
+http://dds.autodesk.com/NetSWDLD/2022/MAP/41F8269C-C74B-32ED-9F7B-956B43A7E85E/SFX/AutoCAD_Map_2022_Simplified_Chinese_Win_64bit_dlm_002_002.sfx.exe
+
 3ds Max 2022 官方多国语言版
 https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_001_004.sfx.exe
 https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_002_004.sfx.exe
 https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_003_004.sfx.exe
 https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_004_004.sfx.exe
-
-Autodesk AutoCAD Map 3D 2022
-http://dds.autodesk.com/NetSWDLD/2022/MAP/26212EB2-57B3-3645-B9D6-A7754F91717F/SFX/AutoCAD_Map_2022_English_Win_64bit_dlm_001_002.sfx.exe
-http://dds.autodesk.com/NetSWDLD/2022/MAP/26212EB2-57B3-3645-B9D6-A7754F91717F/SFX/AutoCAD_Map_2022_English_Win_64bit_dlm_002_002.sfx.exe
 
 3ds Max Interactive
 https://dds.autodesk.com/NetSWDLD/2019/3DSMXI/1F8CD3FB-7A7C-425A-9815-B65C238DA830/SFX/Autodesk_3ds_Max_Interactive_2_5_0_0_EN_Win_64bit_dlm.sfx.exe
