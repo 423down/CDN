@@ -1,0 +1,72 @@
+Autodesk 2022 for Windows 官方产品下载直链：
+::2022-> Windows 10 x64, 支持SSE4.2指令的CPU
+::挖掘检索：423DOWN.COM
+
+# 删除欧特克产品账户登陆组件+验证组件+桌面应用程序
+:: 准备安装前找到官方安装包释放后的安装文件所在位置：
+示例：Autodesk_Maya_2022_ML_Windows_64bit_dlm\
+删除 Autodesk Single Sign On Component -> x64\AdSSO
+删除 Autodesk Desktop App -> x86\ADSKAPP
+删除 Autodesk Genuine Service -> x64\AGS
+删除 AGS和ADSKAPP执行代码 -> manifest\app.maya.xml
+删除 AdSSO执行代码 -> x64\Maya\pkg.maya.xml
+
+AutoCAD 2022 官方简体中文版
+http://dds.autodesk.com/NetSWDLD/2022/ACD/7EE008AE-5D6A-3AA3-ACDF-EC695BCCA205/SFX/AutoCAD_2022_Simplified_Chinese_Win_64bit_dlm.sfx.exe
+ 
+AutoCAD LT 2022 官方简体中文版
+https://dds.autodesk.com/NetSWDLD/2022/ACDLT/BE24E5A3-979A-30A3-82C6-82882AADD236/SFX/AutoCAD_LT_2022_Simplified_Chinese_Win_64bit_dlm.sfx.exe
+
+3ds Max 2022 官方多国语言版
+https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_001_004.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_002_004.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_003_004.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_004_004.sfx.exe
+
+3ds Max Interactive
+https://dds.autodesk.com/NetSWDLD/2019/3DSMXI/1F8CD3FB-7A7C-425A-9815-B65C238DA830/SFX/Autodesk_3ds_Max_Interactive_2_5_0_0_EN_Win_64bit_dlm.sfx.exe
+
+Maya 2022
+https://dds.autodesk.com/NetSWDLD/2022/MAYA/9D725D29-4BE6-3ED9-A585-F4D5E20CECEE/SFX/Autodesk_Maya_2022_ML_Windows_64bit_dlm_001_002.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/MAYA/9D725D29-4BE6-3ED9-A585-F4D5E20CECEE/SFX/Autodesk_Maya_2022_ML_Windows_64bit_dlm_002_002.sfx.exe
+
+MotionBuilder 2022
+https://dds.autodesk.com/NetSWDLD/2022/MOBPRO/330EFCEA-0952-3C68-842C-69A9FEB04127/SFX/Autodesk_MB_2022_ML_Windows_64bit_dlm.sfx.exe
+
+Mudbox 2022
+http://dds.autodesk.com/NetSWDLD/2022/MBXPRO/293D17F8-F7B0-33BA-82A8-6300BB870032/SFX/Autodesk_Mudbox_2022_ML_Win_64bit_dlm.sfx.exe
+
+Point Layout 2022
+https://dds.autodesk.com/NetSWDLD/2022/PNTLAY/978DBE07-1F07-30CA-8CD4-D4BE1C97F5DC/SFX/Autodesk_Point_Layout_2022_Win_32_64bit_dlm.sfx.exe
+
+Navisworks Manage 2022
+https://dds.autodesk.com/NetSWDLD/2022/NAVMAN/C132C0F6-7203-34CF-B8A4-F5A68F1DD494/SFX/Autodesk_Navisworks_Manage_2022_Win_64bit_dlm_001_002.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/NAVMAN/C132C0F6-7203-34CF-B8A4-F5A68F1DD494/SFX/Autodesk_Navisworks_Manage_2022_Win_64bit_dlm_002_002.sfx.exe
+
+Navisworks Simulate 2022
+https://dds.autodesk.com/NetSWDLD/2022/NAVSIM/1C47B54C-DC8E-3B8B-BE6A-B9A43506452F/SFX/Autodesk_Navisworks_Simulate_2022_Win_64bit_dlm_001_002.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/NAVSIM/1C47B54C-DC8E-3B8B-BE6A-B9A43506452F/SFX/Autodesk_Navisworks_Simulate_2022_Win_64bit_dlm_002_002.sfx.exe
+
+Navisworks Freedom 2022
+https://dds.autodesk.com/NetSWDLD/2022/NAVFREE/087B95DF-F444-3F18-B633-4A7A0A0488A4/SFX/Autodesk_Navisworks_Freedom_2022_Win_64bit_dlm.sfx.exe
+
+Navisworks NWC Export Utility 2022
+https://dds.autodesk.com/NetSWDLD/2022/PLC0000012/05406BA4-DDA2-3639-A844-5477CB26DED0/SFX/Autodesk_Navisworks_Exporters_2022_Win_64bit_dlm.sfx.exe
+
+Vault Basic - Server 2022
+https://dds.autodesk.com/NetSWDLD/2022/INVVAU/3210F0E3-1011-4A49-89E5-6B9BD0F30084/SFX/VBS2022_ENU_64bit_dlm.sfx.exe
+
+Vault Basic - Client 2022
+https://dds.autodesk.com/NetSWDLD/2022/PLC0000006/7ECC8B5B-9B80-3DFF-824E-D60582BEEECC/SFX/VBC2022_ENU_64bit_dlm.sfx.exe
+
+Autodesk DWG TrueView 2022
+https://dds.autodesk.com/NetSWDLD/2022/ACD/D7A6621A-1A6A-3DAC-BBD2-9EB566035195/SFX/DWGTrueView_2022_English_64bit_dlm.sfx.exe
+
+AutoCAD VBA module for AutoCAD 2022 Products
+https://download.autodesk.com/us/support/autocad_2022_vba_module/autocad_2022_acvbainstaller_win_64bit_dlm.sfx.exe
+
+Autodesk Screencast 4.0 -  free screen recording utility for Autodesk products
+https://download.autodesk.com/us/support/files/screencast_app/ScreencastSetup_V4.0.exe
+
+AutoCAD 2021 Downloads Updates, security fixes, and more
+https://knowledge.autodesk.com/support/autocad/downloads?release=2022
