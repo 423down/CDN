@@ -12,9 +12,13 @@ Autodesk 2022 for Windows 官方产品下载直链：
 
 AutoCAD 2022 官方简体中文版
 http://dds.autodesk.com/NetSWDLD/2022/ACD/7EE008AE-5D6A-3AA3-ACDF-EC695BCCA205/SFX/AutoCAD_2022_Simplified_Chinese_Win_64bit_dlm.sfx.exe
- 
+AutoCAD 2022.0.1 Update
+http://up.autodesk.com/2022/ACD/4FE06AED-7BE6-3578-8ACD-F8CF697A4318/AutoCAD_2022.0.1_Update.exe
+
 AutoCAD LT 2022 官方简体中文版
 https://dds.autodesk.com/NetSWDLD/2022/ACDLT/BE24E5A3-979A-30A3-82C6-82882AADD236/SFX/AutoCAD_LT_2022_Simplified_Chinese_Win_64bit_dlm.sfx.exe
+AutoCAD LT 2022.0.1 Update 
+http://up.autodesk.com/2022/ACDLT/93B4D5DC-9C30-369B-ADB0-1B495DB61B07/AutoCAD_LT_2022.0.1_Update.exe
 
 Autodesk AutoCAD Map 3D 2022 官方简体中文版
 http://dds.autodesk.com/NetSWDLD/2022/MAP/41F8269C-C74B-32ED-9F7B-956B43A7E85E/SFX/AutoCAD_Map_2022_Simplified_Chinese_Win_64bit_dlm_001_002.sfx.exe
