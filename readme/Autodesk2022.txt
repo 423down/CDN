@@ -12,12 +12,12 @@ Autodesk 2022 for Windows 官方产品下载直链：
 
 Autodesk  AutoCAD 2022 官方简体中文版
 http://dds.autodesk.com/NetSWDLD/2022/ACD/7EE008AE-5D6A-3AA3-ACDF-EC695BCCA205/SFX/AutoCAD_2022_Simplified_Chinese_Win_64bit_dlm.sfx.exe
-AutoCAD 2022.0.1 Update
+AutoCAD 2022.0.1 Update 官方更新补丁
 http://up.autodesk.com/2022/ACD/4FE06AED-7BE6-3578-8ACD-F8CF697A4318/AutoCAD_2022.0.1_Update.exe
 
 Autodesk  AutoCAD LT 2022 官方简体中文版
 https://dds.autodesk.com/NetSWDLD/2022/ACDLT/BE24E5A3-979A-30A3-82C6-82882AADD236/SFX/AutoCAD_LT_2022_Simplified_Chinese_Win_64bit_dlm.sfx.exe
-AutoCAD LT 2022.0.1 Update 
+AutoCAD LT 2022.0.1 Update  官方更新补丁
 http://up.autodesk.com/2022/ACDLT/93B4D5DC-9C30-369B-ADB0-1B495DB61B07/AutoCAD_LT_2022.0.1_Update.exe
 
 Autodesk AutoCAD Map 3D 2022 官方简体中文版
@@ -30,18 +30,37 @@ https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F
 https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_003_004.sfx.exe
 https://dds.autodesk.com/NetSWDLD/2022/3DSMAX/B2EF7E27-4824-3656-A115-BFF401F11F7C/SFX/Autodesk_3ds_Max_2022_EFGJKPS_Win_64bit_004_004.sfx.exe
 
-Autodesk 3ds Max Interactive
+Autodesk 3ds Max Interactive 官方英文版
 https://dds.autodesk.com/NetSWDLD/2019/3DSMXI/1F8CD3FB-7A7C-425A-9815-B65C238DA830/SFX/Autodesk_3ds_Max_Interactive_2_5_0_0_EN_Win_64bit_dlm.sfx.exe
+ 
+Autodesk Revit 2022 官方多国语言版
+https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_001_005.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_002_005.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_003_005.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_004_005.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/RVT/03BD6A4A-C858-3AD2-9353-DF2974C9918B/SFX/Revit_2022_G1_Win_64bit_dlm_005_005.sfx.exe
 
-Autodesk Inventor Pro 2022 
+Autodesk Revit LT 2022 官方多国语言版
+https://dds.autodesk.com/NetSWDLD/2022/RVTLT/78B46141-E345-3230-A38E-CC9F925C2859/SFX/RevitLT_2022_G1_Win_64bit_dlm_001_004.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/RVTLT/78B46141-E345-3230-A38E-CC9F925C2859/SFX/RevitLT_2022_G1_Win_64bit_dlm_002_004.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/RVTLT/78B46141-E345-3230-A38E-CC9F925C2859/SFX/RevitLT_2022_G1_Win_64bit_dlm_003_004.sfx.exe
+https://dds.autodesk.com/NetSWDLD/2022/RVTLT/78B46141-E345-3230-A38E-CC9F925C2859/SFX/RevitLT_2022_G1_Win_64bit_dlm_004_004.sfx.exe
+
+Autodesk Revit 内容包素材
+https://up.autodesk.com/2022/RVT/8A269526-700F-38F4-A481-25BB1B628B9A/RVTCPCHS.exe
+
+Autodesk Inventor Pro 2022 官方简体中文版
 https://efulfillment.autodesk.com/NetSWDLD/2022/INVPROSA/9301FFB2-047D-3A60-A6F1-B6D23604DA00/SFX/Inventor_Pro_2022_Simplified_Chinese_Win_64bit_Dlm_001_003.sfx.exe
 https://efulfillment.autodesk.com/NetSWDLD/2022/INVPROSA/9301FFB2-047D-3A60-A6F1-B6D23604DA00/SFX/Inventor_Pro_2022_Simplified_Chinese_Win_64bit_Dlm_002_003.sfx.exe
 https://efulfillment.autodesk.com/NetSWDLD/2022/INVPROSA/9301FFB2-047D-3A60-A6F1-B6D23604DA00/SFX/Inventor_Pro_2022_Simplified_Chinese_Win_64bit_Dlm_003_003.sfx.exe
-
-Autodesk Inventor 2022.0.1 Update
+Autodesk Inventor 2022.0.1 Update 官方更新补丁
 https://up.autodesk.com/2022/INVPROSA/0CEBF348-F0BD-3176-97A4-E8FCD32005E6/Inventor_2022.0.1_Update.exe
 
-Maya 2022
+Autodesk  Civil 3D 2022 官方简体中文版
+http://trial2.autodesk.com/NetSWDLD/2022/CIV3D/E9834D25-E854-327C-B547-6864D173AAEB/SFX/Autodesk_Civil_3D_2022_Chinese_Simplified_Win_64bit_dlm_001_002.sfx.exe
+http://trial2.autodesk.com/NetSWDLD/2022/CIV3D/E9834D25-E854-327C-B547-6864D173AAEB/SFX/Autodesk_Civil_3D_2022_Chinese_Simplified_Win_64bit_dlm_001_002.sfx.exe
+
+Autodesk  Maya 2022 官方多国语言版
 https://dds.autodesk.com/NetSWDLD/2022/MAYA/9D725D29-4BE6-3ED9-A585-F4D5E20CECEE/SFX/Autodesk_Maya_2022_ML_Windows_64bit_dlm_001_002.sfx.exe
 https://dds.autodesk.com/NetSWDLD/2022/MAYA/9D725D29-4BE6-3ED9-A585-F4D5E20CECEE/SFX/Autodesk_Maya_2022_ML_Windows_64bit_dlm_002_002.sfx.exe
 
