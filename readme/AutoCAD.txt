@@ -49,6 +49,10 @@ https://up.autodesk.com /2019/ACD/F97DAA30-EAC5-4B2E-BB57-4ED8E990F3FB//AutoCAD_
 AutoCAD LT 2019 x32/x64
 http://trial2.autodesk.com/NetSWDLD/2019/ACDLT/ED1F02E1-1C3A-4569-9DC9-C79600D2A9B4/SFX/AutoCAD_LT_2019_Simplified_Chinese_Win_32bit_dlm.sfx.exe
 http://trial2.autodesk.com/NetSWDLD/2019/ACDLT/4C3A2E3C-A2BB-4C0F-8D89-555CFC4B70EE/SFX/AutoCAD_LT_2019_Simplified_Chinese_Win_64bit_dlm.sfx.exe
+AutoCAD LT 2019.1.2 Update 32bit：
+http://up.autodesk.com/2019/ACDLT/D46A3DF2-A8E3-45FD-AEA9-37BD898B035B/AutoCAD_LT_2019.1.2_Update_32bit.exe
+AutoCAD LT 2019.1.2 Update 64bit：
+http://up.autodesk.com/2019/ACDLT/5ACBF2FE-84E9-4F11-87B5-A5EF9236FD9C/AutoCAD_LT_2019.1.2_Update_64bit.exe
 
 AutoCAD 2018 x32/x64 
 http://trial2.autodesk.com/NET18SWDLD/2018/ACD/28D727A6-E041-450A-8104-9BACC47F8BA4/SFX/AutoCAD_2018_Simplified_Chinese_Win_32bit_dlm.sfx.exe
